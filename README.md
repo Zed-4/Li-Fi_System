@@ -1,5 +1,5 @@
 # Li-Fi_System
-*** TSGC Design Challange Team Mellowship © 2022-2023 ***
+***TSGC Design Challange Team Mellowship © 2022-2023***
 
 The mission of the project was to Investigate and demonstrate a prototype of Li-Fi technology. In order to illustrate how Li-Fi can communicate with multiple systems and send commands to. For the final form of the project, we incorporated voice control. That way, the user may be able to hands free control all the built in functionalities.
 
