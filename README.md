@@ -34,13 +34,13 @@ sudo pip install pyaudio <br>
 
 Abtin Ortgoli:
 - `Role:` Lead Software
-- `Contact:` abtinortgoli@ymy.unt.edu <br>
+- `Contact:` abtinortgoli@ymy.unt.edu
 Conor Vanek:
 - `Role:` Team lead
 - `Contact:` conorvanek@my.unt.edu <br>
 Daniel Carillo:
 - `Role:` PCB Design
-- `Contact:` danielcarrillo3@my.unt.edu <br>
+- `Contact:` danielcarrillo3@my.unt.edu
 Vinh Trinh:
 - `Role:` Hardware Design
-- `Contact:` vinhtrinh@my.unt.edu <br>
+- `Contact:` vinhtrinh@my.unt.edu
