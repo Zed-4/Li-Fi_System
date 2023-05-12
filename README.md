@@ -32,15 +32,18 @@ sudo pip install pyaudio <br>
 
 ## Contributors
 
-Abtin Ortgoli:
+Abtin Ortgoli: <br>
 - `Role:` Lead Software
 - `Contact:` abtinortgoli@ymy.unt.edu
-Conor Vanek:
+
+Conor Vanek: <br>
 - `Role:` Team lead
 - `Contact:` conorvanek@my.unt.edu <br>
-Daniel Carillo:
+
+Daniel Carillo: <br>
 - `Role:` PCB Design
 - `Contact:` danielcarrillo3@my.unt.edu
-Vinh Trinh:
+
+Vinh Trinh: <br>
 - `Role:` Hardware Design
 - `Contact:` vinhtrinh@my.unt.edu
