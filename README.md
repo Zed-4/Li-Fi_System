@@ -9,7 +9,7 @@ The mission of the project was to Investigate and demonstrate a prototype of Li-
 - `Receiver`:    A Raspery Pi, Servo motor, lighting Ring, USB Speakers, I2C Temperature and Humidity Sensor, LPS22 Pressure Sensor <br>
 This project requires (main components):
 
-##Setup
+## Setup
 
 **For ubunto\pi needed libraries:** <br>
 
