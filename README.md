@@ -17,7 +17,7 @@ This project requires (main components):
 ```
 pip3 install vosk <br>
 ```
-For vosk's language models, follow the link to downlaod desired [voice models](https://alphacephei.com/vosk/models): <br>
+For vosk's language models, follow the link to downlaod desired model: [Voice Models](https://alphacephei.com/vosk/models) <br>
 
 - **pyaudio:** <br>
 ```
