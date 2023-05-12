@@ -4,9 +4,9 @@ The mission of the project was to Investigate and demonstrate a prototype of Li-
 
 ## How to use
 
-This project requires (main components):
-      Transmitter: A Raspery Pi, LED Lights, USB microphone, MQ-2 Gas and Smoke Analog Sensor, Raspberry LCD display
-      Receiver:    A Raspery Pi, Servo motor, lighting Ring, USB Speakers, I2C Temperature and Humidity Sensor, LPS22 Pressure Sensor 
+**This project requires (main components):**
+      Transmitter: A Raspery Pi, LED Lights, USB microphone, MQ-2 Gas and Smoke Analog Sensor, Raspberry LCD display <br>
+      Receiver:    A Raspery Pi, Servo motor, lighting Ring, USB Speakers, I2C Temperature and Humidity Sensor, LPS22 Pressure Sensor <br>
 
 ## TKinter Theme used
 
