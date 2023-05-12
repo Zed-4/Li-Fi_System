@@ -11,7 +11,7 @@ This project requires (main components):
 
 ## Setup
 
-**For ubunto\pi needed libraries:** <br>
+**For Linux\pi needed libraries:** <br>
 
 - `vosk:` <br>
 ```
