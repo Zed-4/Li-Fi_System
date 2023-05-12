@@ -48,3 +48,6 @@ sudo pip install pyaudio
 **Vinh Trinh:** <br>
 - `Role:` Hardware Design
 - `Contact:` vinhtrinh@my.unt.edu
+
+
+<sub> ©2022-2023 Team Mellowship </sub>
