@@ -3,6 +3,8 @@
 
 The mission of the project was to Investigate and demonstrate a prototype of Li-Fi technology. In order to illustrate how Li-Fi can communicate with multiple systems and send commands to. For the final form of the project, we incorporated voice control. That way, the user may be able to hands free control all the built in functionalities.
 
+![20230417_182048](https://github.com/Zed-4/Li-Fi_System/assets/8176316/eaa59bdd-ebf9-495f-ac3c-6fa1ac5b4724)
+
 ## Main Components
 
 **This project requires:** <br>
