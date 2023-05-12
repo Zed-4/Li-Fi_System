@@ -15,15 +15,15 @@ This project requires (main components):
 
 - `vosk:` <br>
 ```
-pip3 install vosk <br>
+pip3 install vosk
 ```
 For vosk's language models, follow the link to downlaod desired model: [Voice Models](https://alphacephei.com/vosk/models) <br>
 
 - `pyaudio:` <br>
 ```
-sudo apt-get install libasound-dev portaudio19-dev libportaudio2 libportaudiocpp0 <br>
-sudo apt-get install ffmpeg libav-tools <br>
-sudo pip install pyaudio <br>
+sudo apt-get install libasound-dev portaudio19-dev libportaudio2 libportaudiocpp0
+sudo apt-get install ffmpeg libav-tools
+sudo pip install pyaudio
 ```
 
 ## TKinter Theme used
