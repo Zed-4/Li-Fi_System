@@ -30,7 +30,7 @@ sudo pip install pyaudio <br>
 
 `rdbende:` https://github.com/rdbende/Forest-ttk-theme
 
-## Contributors
+## Contributors:
 
 Abtin Ortgoli: <br>
 - `Role:` Lead Software
