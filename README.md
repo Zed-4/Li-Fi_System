@@ -28,7 +28,7 @@ sudo pip install pyaudio <br>
 
 ## TKinter Theme used
 
-rdbende: https://github.com/rdbende/Forest-ttk-theme
+`rdbende:` https://github.com/rdbende/Forest-ttk-theme
 
 ## Contributors
 
