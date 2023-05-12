@@ -4,8 +4,9 @@ The mission of the project was to Investigate and demonstrate a prototype of Li-
 
 ## How to use
 
-This project requires:
-      Transmitter: A Raspery Pi, USB microphone, MQ-2 Gas and Smoke Analog Sensor MQ-2 Gas and Smoke Analog Sensor ![image](https://github.com/Zed-4/Li-Fi_System/assets/8176316/99810ca7-ea75-47a1-add5-06cd98f95abd)
+### This project requires (main components):
+      Transmitter: A Raspery Pi, LED Lights, USB microphone, MQ-2 Gas and Smoke Analog Sensor, Raspberry LCD display
+      Receiver:    A Raspery Pi, Servo motor, lighting Ring, USB Speakers, I2C Temperature and Humidity Sensor, LPS22 Pressure Sensor 
 
 
 ## TKinter Theme used
