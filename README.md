@@ -27,7 +27,7 @@ sudo apt-get install ffmpeg libav-tools
 sudo pip install pyaudio
 ```
 
-## TKinter Theme used
+## TKinter Theme used:
 
 `rdbende:` [Forest ttk theme](https://github.com/rdbende/Forest-ttk-theme)
 
