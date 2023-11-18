@@ -37,7 +37,7 @@ sudo pip install pyaudio
 
 **Abtin Ortgoli:** <br>
 - `Role:` Lead Software
-- `Contact:` abtinortgoli@ymy.unt.edu
+- `Contact:` abtinortgoli@my.unt.edu
 
 **Conor Vanek:** <br>
 - `Role:` Team lead
